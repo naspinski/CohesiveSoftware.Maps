@@ -1,5 +1,5 @@
 # CohesiveSoftware.Maps
-.NET Core implementation of Google Maps API for retireiving map information into a simple POCO.
+.NET Core implementation of Google Maps API for retrieving map information into a simple POCO.  This can easily be extended to use other map services by implementing the **IMap** and **IAddress** interfaces.
 
 ## Usage
 
