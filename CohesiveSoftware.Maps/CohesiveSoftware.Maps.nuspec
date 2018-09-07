@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>CohesiveSoftware.Maps</id>
+    <version>$Version$</version>
+    <title>Cohesive Maps (.NET Core)</title>
+    <authors>Stan Naspinski</authors>
+    <owners>Stan Naspinski</owners>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <licenseUrl>https://github.com/naspinski/CohesiveSoftware.Maps/blob/master/LICENSE.md</licenseUrl>
+    <description>.NET Core implementation of Google Maps API for retrieving map information into a simple POCO.</description>
+    <releaseNotes>Initial upload - factoring it out from CohesiveSoftware.Utilities</releaseNotes>
+    <tags>map maps map-api google-maps</tags>
+    <copyright>Copyright ©2018</copyright>
+  </metadata>
+</package>
