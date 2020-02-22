@@ -2,7 +2,7 @@
 Install-Package CohesiveSoftware.Maps
 ```
 
-# CohesiveSoftware.Maps
+# CohesiveSoftware.Maps [DEPRECATED]
 .NET Core implementation of Google Maps API for retrieving map information into a simple POCO.  This can easily be extended to use other map services by implementing the **IMap** and **IAddress** interfaces.
 
 ## Usage
